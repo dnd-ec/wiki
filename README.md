@@ -1,4 +1,6 @@
 # wiki whitepaper UXT
+by: Destinos y Descuentos
+
 
 Bienvenido al wiki de dnd 
 
