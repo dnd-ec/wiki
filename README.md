@@ -1,4 +1,5 @@
-# wiki
+# wiki whitepaper UXT
+
 Bienvenido al wiki de dnd 
 
 Información sobre como podemos transformar el turismo global en el mundo desde un pequeño pais
@@ -12,3 +13,5 @@ Los turistas son cada vez más digitales. Miles de negocios turísticos tienen l
 En nuestra investigación hemos elejido el país Ecuador al ser uno de los pocos países de la región con un alto porcentaje de penetración de telecomunicaciones, que tiene mucha diversidad, es muy complejo el cambio de paradigma, por lo tanto es ideal para trabajar con tecnologías en la nube donde se guardan nuestros datos y permite el trabajo remoto, varios turistas consumiendo información que se encuentra en la nube y la pronta accesibilidad a los mismos.
 
 Con todas estas ventajas dnd ha preparado un PASS (Platform as a service) con el objetivo de mejorar el turismo desde varios puntos como son: Información tiempo real, información confiable, que pueda ser verificable entre otros aspectos necesarios para generar nuevos emprendimientos y mejorar el ecosistema actual por uno de los actores, con el objetivo que puedan crear sus propios activos digitales y no solo ganar por el servicio, sino generando un turismo colaborativo y transparente.
+
+
